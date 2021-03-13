@@ -10,3 +10,4 @@
 - 🍉 https://fruitables.netlify.app/
 - 🍵 https://mangga.netlify.app/
 - 🔫 https://warcraft.netlify.app/
+- ✻ https://www.nohashways.com/
