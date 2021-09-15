@@ -7,7 +7,6 @@
 - 🚗 https://lego-hero.netlify.app/
 - 🌆 https://airjordan-hero.netlify.app/
 - 🌃 https://imagics.netlify.app/
-- 🍉 https://fruitables.netlify.app/
 - 🍵 https://mangga.netlify.app/
 - 🔫 https://warcraft.netlify.app/
 - ✻ https://www.nohashways.com/
