@@ -15,4 +15,6 @@
 - 🔫 https://warcraft.netlify.app/
 - ✻ https://www.nohashways.com/
 - ✻ https://ddcif.com/
+- ✻ https://angelcares.000webhostapp.com/
+- ✻ https://angelcares.000webhostapp.com/second-website
 
