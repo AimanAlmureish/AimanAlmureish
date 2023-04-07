@@ -1,12 +1,15 @@
 ### Hi there 👋
-## Check out my latest works
 
-- 🌭 https://superano.vercel.app/
-- ✻ https://www.blackgem.net/
-- ✻ https://kvass-css.vercel.app/
+![the-office](https://user-images.githubusercontent.com/55395282/230661140-05649792-aa15-4dae-9ce7-35094795afef.gif)
+
+## Check out my latest works
+- 📸 https://comra.netlify.app/
+- 🐝 https://thebeemkt.com/
+- 💎 https://www.blackgem.net/
+- 🍺 https://kvass-css.vercel.app/
 - ✻ https://www.tpyemen.com/
 - ☢  https://ufoship.netlify.app/
-- ✌  https://hugoboss.netlify.app/
+- ✌ https://hugoboss.netlify.app/
 - 🚗 https://ferrari-hero.netlify.app/
 - 🚗 https://lego-hero.netlify.app/
 - 🌆 https://airjordan-hero.netlify.app/
