@@ -7,7 +7,7 @@
 - 🐝 https://thebeemkt.com/
 - 💎 https://www.blackgem.net/
 - 🍺 https://kvass-css.vercel.app/
-- ✻ https://www.tpyemen.com/
+- ✻ https://superano.vercel.app/
 - ☢  https://ufoship.netlify.app/
 - ✌ https://hugoboss.netlify.app/
 - 🚗 https://ferrari-hero.netlify.app/
