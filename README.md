@@ -9,7 +9,7 @@
 
 ## Check out my latest works
 - 💸 https://app.tipreview.com/ && https://tipreview.com
-- 📸 [https://comrafilms.com/](https://comra.netlify.app/)
+- 📸 https://comrafilms.com
 - 👥 https://q-flow.netlify.app
 - 🤓 https://nerdo-yemen.netlify.app
 - 🪥 https://clearonaligner.com/
